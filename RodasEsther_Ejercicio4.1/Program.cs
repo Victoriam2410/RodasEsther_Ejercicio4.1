@@ -80,5 +80,5 @@ if (incidente >= 1 && incidente <= 4 &&
 }
 else
 {
-    Console.WriteLine("Datos no validos");
+    Console.WriteLine("Datos no validos.");
 }
